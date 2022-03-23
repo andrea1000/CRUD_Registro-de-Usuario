@@ -23,6 +23,10 @@ Formulario de creacion de empleado
     <input type="file" name="Foto" id="Foto">
     <br>
 
+    <label for="Foto"> Foto </label>
+    <input type="file" name="Foto" id="Foto">
+    <br>
+
     <input type="submit" value="Guardar" id="Guardar">
     <br>
 
